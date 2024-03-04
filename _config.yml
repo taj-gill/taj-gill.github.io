@@ -21,11 +21,10 @@
 title: Taj's Musings
 email: taj@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site just contains some of my musings and attempts
-  at writing things which sounds nice.
+  This site just contains some of my projects, thoughts and things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  taj-gill
+github_username: taj-gill
 
 # Build settings
 theme: minima

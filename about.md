@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: about me
 permalink: /about/
 ---
 
-Hey, I'm Taj and this is my little corner on the internet.
+Hi, I'm Taj and this is my little corner on the internet.
 
 
 
